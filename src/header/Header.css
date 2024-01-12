@@ -1,0 +1,67 @@
+
+
+
+.App-header {
+   /*  margin-left: 20px;
+    margin-right: 20px; */
+    padding: 2px;
+   
+    background-color: #ffffff;
+    height: 100px;
+    display: block;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
+  }
+  
+
+  .searchIcon{
+    color: blue;
+    
+  }
+
+
+  .div1{
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  
+  .div3{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: center;
+  }
+
+
+  .ul1{
+    list-style: none;
+    font-size: medium;
+  }
+
+  .ul2{
+    list-style: none;
+    font-weight: bold;
+    font-size: medium;
+  }
+
+  .ul3{
+    
+    list-style: none;
+    font-weight: normal;
+    font-size: medium;
+  }
+
+
+
+  .header-texts{
+    color: grey;
+    font-size: medium;
+
+  }

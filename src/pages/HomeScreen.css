@@ -1,0 +1,42 @@
+.yokarkyDiv{
+    height: 400px;
+    padding-top: 25px;
+    background-color: rgb(242, 242, 242);
+    flex-direction: row;
+    display: flex;
+}
+
+
+
+
+.card-container {
+  
+    display: flex;
+    overflow-x: auto; 
+    padding: 10px; 
+  }
+  
+  .card {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    width: 388px;
+    height: 320px;
+    background-color: rgba(31, 31, 249, 0.976) ;
+    text-align: center;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+    white-space: nowrap; 
+    min-width: 250px; 
+    
+  }
+
+  
+  .card:hover {
+    background-color: #fc9d45; 
+    color: black; 
+  }
+  
