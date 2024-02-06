@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Alynan netije](/./public/img/1.PNG)
+![Alynan netije](/./public/img/2.PNG)
+![Alynan netije](/./public/img/3.PNG)
+![Alynan netije](/./public/img/4.PNG)
+![Alynan netije](/./public/img/5.PNG)
 
 ## Available Scripts
 
